@@ -11,8 +11,8 @@ To install and use JavaIDM, follow these steps:
 
 1. Clone this repository to your local machine.
 2. Open the project folder in your IDE of choice (e.g. Eclipse, NetBeans, IntelliJ IDEA, etc.).
-3. Run the Main.java file to launch the application.
-4. Enter the link of the file you want to download in the text field and click the Download button.
+3. Run the **Main.java** file to launch the application.
+4. Enter the link of the file you want to download in the text field and click the **Download** button.
 5. Choose the destination folder and the file name for your download. (Or you can set permanently the download path in **AppConfig.Java** file)
 Wait for the download to complete and enjoy your file.
 
